@@ -1,0 +1,46 @@
+Total, 合計
+Order, 注文
+Sku, SKU
+Continue to shipping, 続けて配送
+Continue shopping, 購入を続ける
+Continue Shopping, 購入を続ける
+Shopping cart, ショッピングカート
+Product, 商品
+Price, 価格
+Quantity, 数量
+Remove, 削除
+Qty, 個数
+Sub total, 小計
+Discount(${coupon}), 割引 (${coupon})
+Order summary, 注文の概要
+Taxes and shipping calculated at checkout, 税金と送料は決済時に計算されます
+Checkout, 決済
+Change, 変更
+Payment Method, 支払い方法
+Shipping Method, お届け方法
+No payment methods available, 利用可能な支払い方法がありません
+Place Order, 注文する
+My billing address is the same as the shipping address, 請求先住所は配送先住所と同じです
+${count} items, ${count} 個の商品
+Discount, 割引
+Shipping, 送料
+No tax, 税金なし
+Tax, 税金
+Sorry, 残念ですが
+Please enter a shipping address in order to see shipping quotes, お届け先住所を入力してください。送料の見積もりが表示されます。
+Continue to payment, 支払いに進む
+No payment method available, 利用可能な支払い方法がありません
+Ship to, お届け先
+Shipment, 配送
+Thank you ${name}!, ありがとうございます ${name}!
+Contact information, 連絡先情報
+Order #${orderNumber}, 注文番号 #${orderNumber}
+Add to cart, ショッピングカートに追加
+Please select variant options, いずれかのオプションを選択してください
+VIEW CART (${count}), ショッピングカートを表示 (${count})
+JUST ADDED TO YOUR CART, ショッピングカートに追加されました
+Promotion code?, プロモーションコードをお持ちですか？
+Enter coupon code, クーポンコードを入力
+Apply, 適用
+Your cart is empty!, ショッピングカートは空です!
+Inclusive of tax ${taxAmount}, 税金込み ${taxAmount}.
